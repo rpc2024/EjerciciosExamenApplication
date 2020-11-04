@@ -1,0 +1,11 @@
+C:\Users\pchelintsev21214\source\repos\EjerciciosExamenApplication\EjerciciosExamenApplication\bin\Debug\netcoreapp2.1\EjerciciosExamenApplication.deps.json
+C:\Users\pchelintsev21214\source\repos\EjerciciosExamenApplication\EjerciciosExamenApplication\bin\Debug\netcoreapp2.1\EjerciciosExamenApplication.runtimeconfig.json
+C:\Users\pchelintsev21214\source\repos\EjerciciosExamenApplication\EjerciciosExamenApplication\bin\Debug\netcoreapp2.1\EjerciciosExamenApplication.runtimeconfig.dev.json
+C:\Users\pchelintsev21214\source\repos\EjerciciosExamenApplication\EjerciciosExamenApplication\bin\Debug\netcoreapp2.1\EjerciciosExamenApplication.dll
+C:\Users\pchelintsev21214\source\repos\EjerciciosExamenApplication\EjerciciosExamenApplication\bin\Debug\netcoreapp2.1\EjerciciosExamenApplication.pdb
+C:\Users\pchelintsev21214\source\repos\EjerciciosExamenApplication\EjerciciosExamenApplication\obj\Debug\netcoreapp2.1\EjerciciosExamenApplication.csprojAssemblyReference.cache
+C:\Users\pchelintsev21214\source\repos\EjerciciosExamenApplication\EjerciciosExamenApplication\obj\Debug\netcoreapp2.1\EjerciciosExamenApplication.csproj.CoreCompileInputs.cache
+C:\Users\pchelintsev21214\source\repos\EjerciciosExamenApplication\EjerciciosExamenApplication\obj\Debug\netcoreapp2.1\EjerciciosExamenApplication.AssemblyInfoInputs.cache
+C:\Users\pchelintsev21214\source\repos\EjerciciosExamenApplication\EjerciciosExamenApplication\obj\Debug\netcoreapp2.1\EjerciciosExamenApplication.AssemblyInfo.cs
+C:\Users\pchelintsev21214\source\repos\EjerciciosExamenApplication\EjerciciosExamenApplication\obj\Debug\netcoreapp2.1\EjerciciosExamenApplication.dll
+C:\Users\pchelintsev21214\source\repos\EjerciciosExamenApplication\EjerciciosExamenApplication\obj\Debug\netcoreapp2.1\EjerciciosExamenApplication.pdb
